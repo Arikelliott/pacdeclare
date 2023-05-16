@@ -1,5 +1,5 @@
 # pacdeclare
-My own custom declarative pacman script system, expected to be a cheap ripoff of pacdef by steven-omaha (found here in case anyone's interested https://github.com/Arikelliott/pacdeclare). Mine will probably be simple bash scripts.
+My own custom declarative pacman script system, expected to be a cheap ripoff of pacdef by steven-omaha (found here in case anyone's interested https://github.com/steven-omaha/pacdef). Mine will probably be simple bash scripts.
 
 Why, exactly, am I making my own inferior version of something that already exists? It's educational. And I like to know how the stuff I use works. No better way to do that than to make it myself.
 
